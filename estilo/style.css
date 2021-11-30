@@ -61,7 +61,7 @@ header > p {
     font-family: var(--fonte-padrão);
     font-size: 1.2em;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.315);
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 nav {
