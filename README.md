@@ -1,6 +1,6 @@
 # projeto-android
 Projeto Android criado no Cap 17 do curso HTML5 e CSS3 do curso em vídeo.
-Nesse projeto juntei tudo que aprendi no curso e criei um site responsivo.
+Nesse projeto juntei tudo que aprendi no curso e criei um site estático responsivo.
 O site conta a história do Android.
 No html, utilizei recursos como: links no menu, o uso de listas não ordenadas, incorporei links externos ao texto e imagens e vídeo responsivos(se adequam ao tamanho da tela).
 A estrutura do site foi feita de forma sêmantica com HTML5.
